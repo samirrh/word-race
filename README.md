@@ -21,8 +21,8 @@ source .venv/bin/activate
 pip install -r requirements.txt
 uvicorn main:asgi_app --reload --port 8000
 
-## Video Demo
-https://github.com/user-attachments/assets/acb2fadf-828b-4027-b3e6-ad7f1f15bd71
+## Demo
+[![Watch the demo](https://img.youtube.com/vi/K1UTSqVM930/hqdefault.jpg)](https://youtu.be/K1UTSqVM930)
 very limited video demo with core functionality, adding better demo with deployment
 
 
