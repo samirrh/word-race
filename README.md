@@ -22,7 +22,8 @@ pip install -r requirements.txt
 uvicorn main:asgi_app --reload --port 8000
 
 ## Demo
-[![Watch the demo](https://img.youtube.com/vi/K1UTSqVM930/hqdefault.jpg)](https://youtu.be/K1UTSqVM930)
 very limited video demo with core functionality, adding better demo with deployment
+
+[![Watch the demo](https://img.youtube.com/vi/K1UTSqVM930/hqdefault.jpg)](https://youtu.be/K1UTSqVM930)
 
 
